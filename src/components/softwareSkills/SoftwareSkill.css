@@ -4,7 +4,7 @@
   font-size: 3rem;
   margin-bottom: 0px;
   margin-top: 0px;
-  text-align: center;
+  text-align: left;
 }
 
 .software-skill-inline {
@@ -24,4 +24,14 @@
 
 .skill-image {
   height: 48px;
+}
+
+.school-image {
+  height: 100px;
+}
+
+.small-school-image {
+  height: 80px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }

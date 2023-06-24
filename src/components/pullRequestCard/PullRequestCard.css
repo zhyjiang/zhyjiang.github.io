@@ -179,13 +179,13 @@
 }
 
 #tooltip-top > .tooltip-inner {
-  background-color: #000;
+  background-color: rgba(255, 255, 255, 0.5);
   color: #fff;
-  border: 1px solid #062e56;
+  border: 1px solid rgba(255, 255, 255, 0.5);
 }
 
 #tooltip-top > .tooltip-arrow {
-  border-top: 5px solid #062e56;
+  border-top: 5px solid rgba(255, 255, 255, 0.5);
 }
 
 @media (max-width: 1380px) {

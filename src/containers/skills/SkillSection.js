@@ -15,6 +15,13 @@ function GetSkillSvg(props) {
     return <FullStackImg theme={props.theme} />;
   else if (props.fileName === "CloudInfraImg")
     return <CloudInfraImg theme={props.theme} />;
+  else if (props.fileName === "CRUW")
+    return (
+      <img
+        alt="saad sitting on table"
+        src={require("../../assests/images/cruw.png")}
+      ></img>
+    );
   return <DesignImg theme={props.theme} />;
 }
 
@@ -39,7 +46,7 @@ class SkillSection extends Component {
               <div className="skills-text-div">
                 <Fade right duration={1000}>
                   <h1 className="skills-heading" style={{ color: theme.text }}>
-                    {skill.title}
+                    <a href={skill.link}>{skill.title}</a>
                   </h1>
                 </Fade>
                 <Fade right duration={1500}>
