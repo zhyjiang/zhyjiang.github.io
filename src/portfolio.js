@@ -373,15 +373,13 @@ const experience = {
         {
           title: "Resarch Scientist",
           company: "Sportsbox",
-          company_url: "https://about.meta.com/realitylabs/",
-          logo_path: "logo-Meta.png",
-          duration: "Jun 2022 - Sep 2022",
-          location: "Burlingame, CA",
+          company_url: "https://www.sportsbox.ai/",
+          logo_path: "sb_logo.png",
+          duration: "2020 - Now",
+          location: "Seattle, WA",
           descriptions: [
-            "Working on 3D Human Reconstruction based on combination of 3D human pose and NeRF.",
-            "- RGBD based traditional human mesh reconstruction",
-            "- Compare the NeRF based human reconstruction like Neural Body and HumanNeRF.",
-            "- Test, modify, and deploy the NeRF based human reconstruction model",
+            "Working on Human Motion analysis.",
+            "Developed pose estimation methods",
           ],
           color: "#0071C5",
         },
@@ -392,60 +390,34 @@ const experience = {
 
 // Projects Page
 const projectsHeader = {
-  title: "Projects",
-  description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+  title: "Publications & Projects",
+  description: "",
   avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
   title: "Publications",
-  description:
-    "I have worked on and published a few research papers and publications of my own.",
+  description: "",
   avatar_image_path: "projects_image.svg",
 };
 
 const publications = {
   data: [
     {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      id: "1",
+      name:
+        "Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment",
+      createdAt: "CVPRW 2023",
+      description: "AICity Challenge 2023 Track1 No.1",
+      url: "https://github.com/ipl-uw/AIC23_Track1_UWIPL_ETRI",
     },
     {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      id: "2",
+      name:
+        "RODNet: A real-time radar object detection network cross-supervised by camera-radar fused object 3D localization",
+      createdAt: "IEEE TSP 2021",
+      description: "Radar object detection",
+      url: "https://github.com/yizhou-wang/RODNet",
     },
   ],
 };
@@ -454,33 +426,32 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
-    description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+    profile_image_path: "icon.jpeg",
+    description: "",
   },
-  blogSection: {
-    title: "Blogs",
-    subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
-  },
-  addressSection: {
-    title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
-    country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
-    avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
-  },
-  phoneSection: {
-    title: "",
-    subtitle: "",
-  },
+  // blogSection: {
+  //   title: "Blogs",
+  //   subtitle:
+  //     "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
+  //   link: "https://blogs.ashutoshhathidara.com/",
+  //   avatar_image_path: "blogs_image.svg",
+  // },
+  // addressSection: {
+  //   title: "Address",
+  //   subtitle:
+  //     "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+  //   locality: "Kanodar",
+  //   country: "IN",
+  //   region: "Gujarat",
+  //   postalCode: "385520",
+  //   streetAddress: "Ambavadi vas",
+  //   avatar_image_path: "address_image.svg",
+  //   location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+  // },
+  // phoneSection: {
+  //   title: "",
+  //   subtitle: "",
+  // },
 };
 
 export {

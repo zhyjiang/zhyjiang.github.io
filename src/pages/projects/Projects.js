@@ -49,7 +49,7 @@ class Projects extends Component {
             </div>
           </Fade>
         </div>
-        <div className="repo-cards-div-main">
+        {/* <div className="repo-cards-div-main">
           {ProjectsData.data.map((repo) => {
             return <GithubRepoCard repo={repo} theme={theme} />;
           })}
@@ -60,7 +60,7 @@ class Projects extends Component {
           href={greeting.githubProfile}
           newTab={true}
           theme={theme}
-        />
+        /> */}
 
         {/* Publications  */}
         {publications.data.length > 0 ? (
@@ -91,7 +91,13 @@ class Projects extends Component {
             return <PublicationCard pub={pub} theme={theme} />;
           })}
         </div>
-
+        <Button
+          text={"More Publications"}
+          className="project-button"
+          href="https://scholar.google.com/citations?user=RCCe8ZgAAAAJ&hl=en"
+          newTab={true}
+          theme={theme}
+        />
         <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
         <TopButton theme={this.props.theme} />
       </div>
