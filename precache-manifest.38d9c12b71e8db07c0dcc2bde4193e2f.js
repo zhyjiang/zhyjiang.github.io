@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fceb42981a8ee77f4791e712e0c78dc6",
+    "revision": "6b083e0a74bafab0371dade667b41e7c",
     "url": "/index.html"
   },
   {
-    "revision": "7017bebf820e2bdff916",
-    "url": "/static/css/main.f5e71091.chunk.css"
+    "revision": "5a86a842a438adea6d32",
+    "url": "/static/css/main.14a39eb0.chunk.css"
   },
   {
-    "revision": "26af026a8308d7b588a8",
-    "url": "/static/js/2.fccdf077.chunk.js"
+    "revision": "7c0872f2d2c6b0d95ec2",
+    "url": "/static/js/2.4cac0192.chunk.js"
   },
   {
-    "revision": "7017bebf820e2bdff916",
-    "url": "/static/js/main.fb90db87.chunk.js"
+    "revision": "5a86a842a438adea6d32",
+    "url": "/static/js/main.b7bc2b9e.chunk.js"
   },
   {
     "revision": "6138eaf4a6c67cbf898e",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "f1bb4b58b15cd489acbe6ee0205de060",
+    "url": "/static/media/First.f1bb4b58.jpeg"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -52,6 +56,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "68a4f9434058691fa1cd22ee1043139c",
+    "url": "/static/media/Second.68a4f943.jpeg"
+  },
+  {
+    "revision": "d1eb1ff3511d08ebc264269bbbe01cee",
+    "url": "/static/media/Third.d1eb1ff3.jpeg"
+  },
+  {
+    "revision": "ffbc710dd1ea8fab1b820ac1a39834c1",
+    "url": "/static/media/Tsinghua_University_Logo.ffbc710d.svg"
+  },
+  {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "/static/media/address_image.16559172.svg"
   },
@@ -78,6 +94,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5f915405511f649dad433a6db9adbff4",
     "url": "/static/media/contactMail.5f915405.png"
+  },
+  {
+    "revision": "8617dad048870a318119cd2f065b5bb7",
+    "url": "/static/media/cruw.8617dad0.png"
+  },
+  {
+    "revision": "fb3d92f0d91d9fa3f5b6652426e8282e",
+    "url": "/static/media/cruw_icon.fb3d92f0.png"
   },
   {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
@@ -192,6 +216,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ibm_logo.d3fccbe1.png"
   },
   {
+    "revision": "ef16bcd75a21c26005dba32ac2ca3469",
+    "url": "/static/media/icon.ef16bcd7.jpeg"
+  },
+  {
     "revision": "571a8584e69ecfbe326c8b8385fbbf54",
     "url": "/static/media/iiitk_logo.571a8584.png"
   },
@@ -212,8 +240,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/legato_logo.c597fbde.png"
   },
   {
+    "revision": "8b562dba115955946651a90837f92709",
+    "url": "/static/media/logo-Meta.8b562dba.png"
+  },
+  {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "/static/media/manOnTable.83ac24fb.svg"
+  },
+  {
+    "revision": "45b1cdb6103f1c84069308c8c9224319",
+    "url": "/static/media/meta-logo.45b1cdb6.svg"
   },
   {
     "revision": "069938a84edd6ebf383c318e9feb5d4c",
