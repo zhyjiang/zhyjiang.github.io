@@ -105,7 +105,7 @@ const competitiveSites = {
     {
       // siteName: "LeetCode",
       small: true,
-      imageSrc: "UW_Logo.png",
+      imageSrc: "UW_logo.png",
       profileLink: "https://leetcode.com/layman_brother/",
     },
     // {
