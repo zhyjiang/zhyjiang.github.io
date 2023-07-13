@@ -28,7 +28,7 @@ export default function PublicationCard({ pub, theme }) {
               className="publication-creation-date subTitle"
               style={{ color: theme.secondaryText }}
             >
-              Published on {pub.createdAt.split("T")[0]}
+              Published on {pub.createdAt}
             </p>
           </div>
           {/* <div className="repo-stats">
