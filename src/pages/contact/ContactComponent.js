@@ -11,9 +11,10 @@ import "./ContactComponent.css";
 import { greeting, contactPageData } from "../../portfolio.js";
 
 const ContactData = contactPageData.contactSection;
-const blogSection = contactPageData.blogSection;
-const addressSection = contactPageData.addressSection;
-const phoneSection = contactPageData.phoneSection;
+const DisplayData = contactPageData.DisplaySection;
+// const blogSection = contactPageData.blogSection;
+// const addressSection = contactPageData.addressSection;
+// const phoneSection = contactPageData.phoneSection;
 
 class Contact extends Component {
   render() {
@@ -52,6 +53,16 @@ class Contact extends Component {
                     theme={theme}
                   />
                 </div>
+              </div>
+            </div>
+          </Fade>
+          <Fade bottom duration={1000} distance="40px">
+            <div className="display-heading-div">
+              <div className="display-heading-img-div">
+                <img
+                  src={require(`../../assests/images/${DisplayData["image_path"]}`)}
+                  alt=""
+                />
               </div>
             </div>
           </Fade>

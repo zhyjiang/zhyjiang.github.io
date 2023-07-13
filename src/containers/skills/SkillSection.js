@@ -22,6 +22,13 @@ function GetSkillSvg(props) {
         src={require("../../assests/images/cruw.png")}
       ></img>
     );
+  else if (props.fileName === "ZeDO")
+    return (
+      <img
+        alt="saad sitting on table"
+        src={require("../../assests/images/ZeDO.png")}
+      ></img>
+    );
   return <DesignImg theme={props.theme} />;
 }
 
@@ -59,9 +66,8 @@ class SkillSection extends Component {
                         <p
                           className="subTitle skills-text"
                           style={{ color: theme.secondaryText }}
-                        >
-                          {skillSentence}
-                        </p>
+                          dangerouslySetInnerHTML={{__html: skillSentence}}
+                        />
                       );
                     })}
                   </div>

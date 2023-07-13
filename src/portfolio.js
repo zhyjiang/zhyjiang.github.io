@@ -73,17 +73,40 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
+      title: "ZeDO",
+      fileName: "ZeDO",
+      link: "https://arxiv.org/abs/2307.03833",
+      skills: [
+        "Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation",
+        "We proposed a optimization-based 3D huamn pose estimation method which outperform learning-based methods on <b>3DPW</b> and <b>Ski-Pose</b> Dataset",
+      ],
+      softwareSkills: [
+        {
+          skillName: "IPL",
+          imageSrc: "ipl-logo.png",
+        },
+        {
+          skillName: "UW",
+          imageSrc: "UW_logo.png",
+        },
+      ],
+    },
+    {
       title: "CRUW Dataset",
       fileName: "CRUW",
       link: "https://www.cruwdataset.org/home",
       skills: [
-        "CRUW is a public camera-radar dataset for autonomous vehicle applications.",
+        "CRUW is a public <b>camera-radar dataset</b> for autonomous vehicle applications.",
         "It is a good resource for researchers to study FMCW radar data, that has high potential in the future autonomous driving. ",
       ],
       softwareSkills: [
         {
           skillName: "CRUW",
           imageSrc: "cruw_icon.png",
+        },
+        {
+          skillName: "IPL",
+          imageSrc: "ipl-logo.png",
         },
         {
           skillName: "UW",
@@ -427,6 +450,10 @@ const contactPageData = {
   contactSection: {
     title: "Contact Me",
     profile_image_path: "icon.jpeg",
+    description: "",
+  },
+  DisplaySection: {
+    image_path: "AICity.jpg",
     description: "",
   },
   // blogSection: {

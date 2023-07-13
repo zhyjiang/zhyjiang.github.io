@@ -11,6 +11,10 @@
   display: flex;
 }
 
+.display-heading-div {
+  display: flex;
+}
+
 .blog-heading-div {
   display: flex;
 }
@@ -28,6 +32,10 @@
   flex: 1;
 }
 
+.display-heading-div > * {
+  flex: 1;
+}
+
 .address-heading-div > * {
   flex: 1;
 }
@@ -36,6 +44,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.display-heading-img-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5%;
 }
 
 .blog-heading-img-div {
@@ -56,6 +71,11 @@
 }
 
 .contact-heading-img-div > * {
+  max-width: 100%;
+  height: auto;
+}
+
+.display-heading-img-div > * {
   max-width: 100%;
   height: auto;
 }
@@ -173,6 +193,10 @@
   }
 
   .contact-heading-div {
+    flex-direction: column;
+  }
+
+  .display-heading-div {
     flex-direction: column;
   }
 

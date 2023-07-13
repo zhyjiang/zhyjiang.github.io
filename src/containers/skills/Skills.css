@@ -1,3 +1,23 @@
+a:link {
+  color: #4b2e83;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #4b2e83;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4b2e83;
+  text-decoration: none;
+}
+
+a:active {
+  color: #4b2e83;
+  text-decoration: none;
+}
+
 .skills-main-div {
   display: flex;
   overflow: hidden;
