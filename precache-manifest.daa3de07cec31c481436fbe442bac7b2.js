@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70dcb50c4a01282a8222ab8378ce24a1",
+    "revision": "d96a382d5b8646ed370aef4b93f60a33",
     "url": "/index.html"
   },
   {
-    "revision": "f6885f38944ca79fe724",
-    "url": "/static/css/main.b9c7ff3d.chunk.css"
+    "revision": "1f04f02c7e61f448b1cb",
+    "url": "/static/css/main.156c6ed7.chunk.css"
   },
   {
     "revision": "76d4a014f88ccfc3463f",
     "url": "/static/js/2.825b01c7.chunk.js"
   },
   {
-    "revision": "f6885f38944ca79fe724",
-    "url": "/static/js/main.46582ee2.chunk.js"
+    "revision": "1f04f02c7e61f448b1cb",
+    "url": "/static/js/main.3c5874b2.chunk.js"
   },
   {
     "revision": "6138eaf4a6c67cbf898e",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Third.d1eb1ff3.jpeg"
   },
   {
-    "revision": "ffbc710dd1ea8fab1b820ac1a39834c1",
-    "url": "/static/media/Tsinghua_University_Logo.ffbc710d.svg"
+    "revision": "7f8c2977688e2bb31ce6550aa3c5f30e",
+    "url": "/static/media/Tsinghua_University_Logo.7f8c2977.svg"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
@@ -248,8 +248,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.83ac24fb.svg"
   },
   {
-    "revision": "d8dfb3f7d7c1369a229b4ee0b8d5e324",
-    "url": "/static/media/meta-logo.d8dfb3f7.svg"
+    "revision": "45b1cdb6103f1c84069308c8c9224319",
+    "url": "/static/media/meta-logo.45b1cdb6.svg"
   },
   {
     "revision": "069938a84edd6ebf383c318e9feb5d4c",
