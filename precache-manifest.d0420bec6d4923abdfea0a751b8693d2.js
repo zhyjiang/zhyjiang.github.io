@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d96a382d5b8646ed370aef4b93f60a33",
+    "revision": "c229a233f3710d111af16c83f15e6cca",
     "url": "/index.html"
   },
   {
-    "revision": "1f04f02c7e61f448b1cb",
-    "url": "/static/css/main.156c6ed7.chunk.css"
+    "revision": "860d43b9155bd15f4674",
+    "url": "/static/css/main.b5b2192e.chunk.css"
   },
   {
-    "revision": "76d4a014f88ccfc3463f",
-    "url": "/static/js/2.825b01c7.chunk.js"
+    "revision": "0c3f311973df50fbdcf0",
+    "url": "/static/js/2.44628f73.chunk.js"
   },
   {
-    "revision": "1f04f02c7e61f448b1cb",
-    "url": "/static/js/main.3c5874b2.chunk.js"
+    "revision": "860d43b9155bd15f4674",
+    "url": "/static/js/main.38f8a9e6.chunk.js"
   },
   {
     "revision": "6138eaf4a6c67cbf898e",
     "url": "/static/js/runtime-main.0403a33d.js"
+  },
+  {
+    "revision": "7cdfb1b6832d85cda45155d9e24dfdf2",
+    "url": "/static/media/AICity.7cdfb1b6.jpg"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -68,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Tsinghua_University_Logo.7f8c2977.svg"
   },
   {
-    "revision": "16559172ca1d4d552390b48f19e102ba",
-    "url": "/static/media/address_image.16559172.svg"
+    "revision": "3fea0999aaeb436daec8c5bca69f73be",
+    "url": "/static/media/ZeDO.3fea0999.png"
   },
   {
-    "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
-    "url": "/static/media/animated_ashutosh.eaf02c2d.png"
+    "revision": "16559172ca1d4d552390b48f19e102ba",
+    "url": "/static/media/address_image.16559172.svg"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
@@ -226,6 +230,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "/static/media/intel_logo.29152cf7.jpg"
+  },
+  {
+    "revision": "641d78f46163b0a1e2c94c3e64277cff",
+    "url": "/static/media/ipl-logo.641d78f4.png"
   },
   {
     "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
