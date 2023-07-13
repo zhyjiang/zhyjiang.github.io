@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7963f403b0932fb883815611c5f54d1",
+    "revision": "f05343baff205fc509002fa7febaec19",
     "url": "/index.html"
   },
   {
-    "revision": "38571755fd2d82422afc",
-    "url": "/static/css/main.b5b2192e.chunk.css"
+    "revision": "014e0faf6f6ffa4a0e3d",
+    "url": "/static/css/main.cc2dde40.chunk.css"
   },
   {
     "revision": "0c3f311973df50fbdcf0",
     "url": "/static/js/2.44628f73.chunk.js"
   },
   {
-    "revision": "38571755fd2d82422afc",
-    "url": "/static/js/main.d4a30094.chunk.js"
+    "revision": "014e0faf6f6ffa4a0e3d",
+    "url": "/static/js/main.5a572cb4.chunk.js"
   },
   {
     "revision": "6138eaf4a6c67cbf898e",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Third.d1eb1ff3.jpeg"
   },
   {
-    "revision": "7f8c2977688e2bb31ce6550aa3c5f30e",
-    "url": "/static/media/Tsinghua_University_Logo.7f8c2977.svg"
+    "revision": "ffbc710dd1ea8fab1b820ac1a39834c1",
+    "url": "/static/media/Tsinghua_University_Logo.ffbc710d.svg"
   },
   {
     "revision": "3fea0999aaeb436daec8c5bca69f73be",
