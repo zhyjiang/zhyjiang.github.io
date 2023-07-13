@@ -429,13 +429,21 @@ const publications = {
     {
       id: "1",
       name:
+        "Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation",
+      createdAt: "Arxiv",
+      description: "Optimization based 3D human pose estimation",
+      url: "https://arxiv.org/abs/2307.03833",
+    },
+    {
+      id: "2",
+      name:
         "Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment",
       createdAt: "CVPRW 2023",
       description: "AICity Challenge 2023 Track1 No.1",
       url: "https://github.com/ipl-uw/AIC23_Track1_UWIPL_ETRI",
     },
     {
-      id: "2",
+      id: "3",
       name:
         "RODNet: A real-time radar object detection network cross-supervised by camera-radar fused object 3D localization",
       createdAt: "IEEE TSP 2021",
