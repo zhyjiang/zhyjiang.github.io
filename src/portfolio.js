@@ -75,7 +75,8 @@ const skills = {
     {
       title: "ZeDO",
       fileName: "ZeDO",
-      link: "https://arxiv.org/abs/2307.03833",
+      link:
+        "https://paperswithcode.com/paper/back-to-optimization-diffusion-based-zero",
       skills: [
         "Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation",
         "We proposed a optimization-based 3D huamn pose estimation method which outperform learning-based methods on <b>3DPW</b> and <b>Ski-Pose</b> Dataset",
@@ -432,7 +433,8 @@ const publications = {
         "Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation",
       createdAt: "Arxiv",
       description: "Optimization based 3D human pose estimation",
-      url: "https://arxiv.org/abs/2307.03833",
+      url:
+        "https://paperswithcode.com/paper/back-to-optimization-diffusion-based-zero",
     },
     {
       id: "2",
