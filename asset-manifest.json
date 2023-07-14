@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.cc2dde40.chunk.css",
-    "main.js": "/static/js/main.5a572cb4.chunk.js",
-    "main.js.map": "/static/js/main.5a572cb4.chunk.js.map",
+    "main.js": "/static/js/main.27adcfef.chunk.js",
+    "main.js.map": "/static/js/main.27adcfef.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0403a33d.js",
     "runtime-main.js.map": "/static/js/runtime-main.0403a33d.js.map",
     "static/js/2.44628f73.chunk.js": "/static/js/2.44628f73.chunk.js",
     "static/js/2.44628f73.chunk.js.map": "/static/js/2.44628f73.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dad1595796be85ec95f17763d1e80e6b.js": "/precache-manifest.dad1595796be85ec95f17763d1e80e6b.js",
+    "precache-manifest.0acd3511a86e499a81aae55c11e41596.js": "/precache-manifest.0acd3511a86e499a81aae55c11e41596.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cc2dde40.chunk.css.map": "/static/css/main.cc2dde40.chunk.css.map",
     "static/media/AICity.jpg": "/static/media/AICity.7cdfb1b6.jpg",
@@ -66,6 +66,6 @@
     "static/js/runtime-main.0403a33d.js",
     "static/js/2.44628f73.chunk.js",
     "static/css/main.cc2dde40.chunk.css",
-    "static/js/main.5a572cb4.chunk.js"
+    "static/js/main.27adcfef.chunk.js"
   ]
 }
