@@ -79,6 +79,7 @@ const skills = {
         "https://paperswithcode.com/paper/back-to-optimization-diffusion-based-zero",
       skills: [
         "Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation",
+        "Accept by <b>WACV</b> 2024~",
         "We proposed a optimization-based 3D huamn pose estimation method which outperform learning-based methods on <b>3DPW</b> and <b>Ski-Pose</b> Dataset",
       ],
       softwareSkills: [
