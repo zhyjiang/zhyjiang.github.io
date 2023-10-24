@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.cc2dde40.chunk.css",
-    "main.js": "/static/js/main.27adcfef.chunk.js",
-    "main.js.map": "/static/js/main.27adcfef.chunk.js.map",
+    "main.js": "/static/js/main.53a51cd9.chunk.js",
+    "main.js.map": "/static/js/main.53a51cd9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0403a33d.js",
     "runtime-main.js.map": "/static/js/runtime-main.0403a33d.js.map",
     "static/js/2.44628f73.chunk.js": "/static/js/2.44628f73.chunk.js",
     "static/js/2.44628f73.chunk.js.map": "/static/js/2.44628f73.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0acd3511a86e499a81aae55c11e41596.js": "/precache-manifest.0acd3511a86e499a81aae55c11e41596.js",
+    "precache-manifest.11a861bf2ba0d0d6a2b548b6a6e6bfab.js": "/precache-manifest.11a861bf2ba0d0d6a2b548b6a6e6bfab.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cc2dde40.chunk.css.map": "/static/css/main.cc2dde40.chunk.css.map",
     "static/media/AICity.jpg": "/static/media/AICity.7cdfb1b6.jpg",
@@ -49,7 +49,7 @@
     "static/media/legato_logo.png": "/static/media/legato_logo.c597fbde.png",
     "static/media/logo-Meta.png": "/static/media/logo-Meta.8b562dba.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.83ac24fb.svg",
-    "static/media/meta-logo.svg": "/static/media/meta-logo.45b1cdb6.svg",
+    "static/media/meta-logo.svg": "/static/media/meta-logo.d8dfb3f7.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.95a12a2b.png",
     "static/media/portfolio.gif": "/static/media/portfolio.414dfbd9.gif",
@@ -66,6 +66,6 @@
     "static/js/runtime-main.0403a33d.js",
     "static/js/2.44628f73.chunk.js",
     "static/css/main.cc2dde40.chunk.css",
-    "static/js/main.27adcfef.chunk.js"
+    "static/js/main.53a51cd9.chunk.js"
   ]
 }
