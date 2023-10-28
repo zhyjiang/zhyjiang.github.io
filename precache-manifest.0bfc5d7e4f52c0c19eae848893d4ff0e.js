@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "705470270d91f1dd97825524a13d31ba",
+    "revision": "78aa1f66dace957f330952550bd64c9d",
     "url": "/index.html"
   },
   {
-    "revision": "8d8eef84f76efff95558",
-    "url": "/static/css/main.cc2dde40.chunk.css"
+    "revision": "4cd794acda0a7f498f91",
+    "url": "/static/css/main.b5b2192e.chunk.css"
   },
   {
-    "revision": "0c3f311973df50fbdcf0",
-    "url": "/static/js/2.44628f73.chunk.js"
+    "revision": "d6a30496100475104327",
+    "url": "/static/js/2.ef0d7ffc.chunk.js"
   },
   {
-    "revision": "8d8eef84f76efff95558",
-    "url": "/static/js/main.bec77189.chunk.js"
+    "revision": "4cd794acda0a7f498f91",
+    "url": "/static/js/main.c5eb60b6.chunk.js"
   },
   {
     "revision": "6138eaf4a6c67cbf898e",
     "url": "/static/js/runtime-main.0403a33d.js"
+  },
+  {
+    "revision": "2a29e82490848a0574dbf4d358fa99c4",
+    "url": "/static/media/AICity.2a29e824.png"
   },
   {
     "revision": "7cdfb1b6832d85cda45155d9e24dfdf2",
@@ -68,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Third.d1eb1ff3.jpeg"
   },
   {
-    "revision": "ffbc710dd1ea8fab1b820ac1a39834c1",
-    "url": "/static/media/Tsinghua_University_Logo.ffbc710d.svg"
+    "revision": "7f8c2977688e2bb31ce6550aa3c5f30e",
+    "url": "/static/media/Tsinghua_University_Logo.7f8c2977.svg"
   },
   {
     "revision": "3fea0999aaeb436daec8c5bca69f73be",
@@ -256,8 +260,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.83ac24fb.svg"
   },
   {
-    "revision": "d8dfb3f7d7c1369a229b4ee0b8d5e324",
-    "url": "/static/media/meta-logo.d8dfb3f7.svg"
+    "revision": "45b1cdb6103f1c84069308c8c9224319",
+    "url": "/static/media/meta-logo.45b1cdb6.svg"
   },
   {
     "revision": "069938a84edd6ebf383c318e9feb5d4c",
