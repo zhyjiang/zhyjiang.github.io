@@ -76,7 +76,7 @@ const skills = {
       title: "ZeDO",
       fileName: "ZeDO",
       link:
-        "https://paperswithcode.com/paper/back-to-optimization-diffusion-based-zero",
+        "https://zhyjiang.github.io/ZeDO-proj/",
       skills: [
         "Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation",
         "Accept by <b>WACV</b> 2024~",
