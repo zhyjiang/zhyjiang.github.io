@@ -94,6 +94,26 @@ const skills = {
       ],
     },
     {
+      title: "AIC23 Track1 Winner",
+      fileName: "AICity",
+      link:
+        "https://github.com/ipl-uw/AIC23_Track1_UWIPL_ETRI",
+      skills: [
+        "Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment",
+        "Winner of <b>AIC23 Track1</b>~",
+      ],
+      softwareSkills: [
+        {
+          skillName: "IPL",
+          imageSrc: "ipl-logo.png",
+        },
+        {
+          skillName: "UW",
+          imageSrc: "UW_logo.png",
+        },
+      ],
+    },
+    {
       title: "CRUW Dataset",
       fileName: "CRUW",
       link: "https://www.cruwdataset.org/home",
@@ -432,7 +452,7 @@ const publications = {
       id: "1",
       name:
         "Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation",
-      createdAt: "Arxiv",
+      createdAt: "WACV 2024",
       description: "Optimization based 3D human pose estimation",
       url:
         "https://paperswithcode.com/paper/back-to-optimization-diffusion-based-zero",
