@@ -29,6 +29,13 @@ function GetSkillSvg(props) {
         src={require("../../assests/images/ZeDO.png")}
       ></img>
     );
+    else if (props.fileName === "AICity")
+    return (
+      <img
+        alt="saad sitting on table"
+        src={require("../../assests/images/AICity.jpg")}
+      ></img>
+    );
   return <DesignImg theme={props.theme} />;
 }
 
