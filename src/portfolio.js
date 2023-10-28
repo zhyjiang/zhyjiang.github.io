@@ -455,7 +455,7 @@ const publications = {
       createdAt: "WACV 2024",
       description: "Optimization based 3D human pose estimation",
       url:
-        "https://paperswithcode.com/paper/back-to-optimization-diffusion-based-zero",
+        "https://zhyjiang.github.io/ZeDO-proj/",
     },
     {
       id: "2",
