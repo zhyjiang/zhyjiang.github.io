@@ -21,7 +21,7 @@ const greeting = {
   title: "Zhongyu Jiang",
   logo_name: "ZhongyuJiang",
   // nickname: "Nitre",
-  subTitle: "PhD Student",
+  subTitle: "PhD Candidate",
   subsubTitle: "University of Washington ECE",
   resumeLink:
     "https://drive.google.com/file/d/1Fy_0HKsV0ke6TmRGB7a26ZKC8rAl_Slq/view?usp=sharing",
@@ -75,8 +75,7 @@ const skills = {
     {
       title: "ZeDO",
       fileName: "ZeDO",
-      link:
-        "https://zhyjiang.github.io/ZeDO-proj/",
+      link: "https://zhyjiang.github.io/ZeDO-proj/",
       skills: [
         "Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation",
         "Accept by <b>WACV</b> 2024~",
@@ -96,8 +95,7 @@ const skills = {
     {
       title: "AIC23 Track1 Winner",
       fileName: "AICity",
-      link:
-        "https://github.com/ipl-uw/AIC23_Track1_UWIPL_ETRI",
+      link: "https://github.com/ipl-uw/AIC23_Track1_UWIPL_ETRI",
       skills: [
         "Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment",
         "Winner of <b>AIC23 Track1</b>~",
@@ -221,7 +219,7 @@ const degrees = {
     },
     {
       title: "University of Washington",
-      subtitle: "PhD Student. in Electrical and Computer Engineering",
+      subtitle: "PhD Candidate. in Electrical and Computer Engineering",
       logo_path: "UW_logo.png",
       alt_name: "University of Washington",
       duration: "2020-2024",
@@ -454,8 +452,7 @@ const publications = {
         "Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation",
       createdAt: "WACV 2024",
       description: "Optimization based 3D human pose estimation",
-      url:
-        "https://zhyjiang.github.io/ZeDO-proj/",
+      url: "https://zhyjiang.github.io/ZeDO-proj/",
     },
     {
       id: "2",
